@@ -1,2 +1,2 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview! 
+Collection of LeetCode and github questions to ace the coding interview! 
